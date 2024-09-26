@@ -18,5 +18,5 @@ This is a simple React web application to manage and display a list of healthcar
 1. Clone the repository:  
 
 ```bash  
-git clone <repository-url>  
+git clone <https://github.com/karimi-wahid/Health-Care-App>  
 cd healthcare-services
